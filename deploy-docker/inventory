@@ -1,2 +1,1 @@
-[ubuntu]
-172.16.128.249 ansible_user=nishant
+localhost ansible_user=nishant
