@@ -1,1 +1,5 @@
 localhost ansible_user=nishant
+
+[ubuntu]
+172.16.130.121 ansible_user= nishantchhattani
+
